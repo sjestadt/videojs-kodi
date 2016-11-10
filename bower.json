@@ -1,0 +1,14 @@
+{
+  "name": "videojs-kodi",
+  "author": "s",
+  "license": "MIT",
+  "main": [
+    "dist/videojs-kodi.css",
+    "dist/videojs-kodi.min.js"
+  ],
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ]
+}
+
